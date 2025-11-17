@@ -1,0 +1,18 @@
+{
+  "name": "Offline Music Player",
+  "short_name": "Music Player",
+  "description": "A sleek, modern music player that lets you play your local audio files directly in the browser. Select a folder of your music and enjoy features like playlists, shuffle, repeat, and a sleep timer, all with a beautiful dark-mode interface.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}

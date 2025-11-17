@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Offline Music Player",
+  "description": "A sleek, modern music player that lets you play your local audio files directly in the browser. Select a folder of your music and enjoy features like playlists, shuffle, repeat, and a sleep timer, all with a beautiful dark-mode interface.",
+  "requestFramePermissions": []
+}
